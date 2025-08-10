@@ -11,11 +11,6 @@ function Header() {
               <li>
                 <Link to="/">
                   <span style={{ color: "white" }}>
-                    <img
-                      style={{ width: "80px", paddingTop: "5px" }}
-                      alt="gif"
-                      src="public/ecommerce.gif"
-                    ></img>
                   </span>{" "}
                   <div
                     className="logo"
