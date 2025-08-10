@@ -14,7 +14,7 @@ function Header() {
                     <img
                       style={{ width: "80px", paddingTop: "5px" }}
                       alt="gif"
-                      src="./ecommerce.gif"
+                      src="./public/ecommerce.gif"
                     ></img>
                   </span>{" "}
                   <div
